@@ -9,8 +9,6 @@ This repository is your one-stop destination for all things related to data scie
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
 3. [Topics Covered](#topics-covered)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Introduction
 
@@ -24,3 +22,18 @@ To get started with this repository, you can:
   ```shell
   git clone https://github.com/MrAkash920/DataScience.git
 
+## Topics Covered
+
+This repository covers a wide range of data science topics, including but not limited to:
+
+- **NumPy:** Essential for scientific computing in Python, you'll find notes and code examples to help you master NumPy.
+
+- **Matplotlib:** Learn how to create stunning data visualizations with Matplotlib.
+
+- **TensorFlow:** Dive into the world of deep learning and machine learning with TensorFlow resources.
+
+- **Tableau:** Explore data visualization and business intelligence with Tableau.
+
+- **Excel:** Discover data analysis and manipulation techniques in Excel.
+
+We're constantly adding new content, so make sure to stay tuned for updates!
